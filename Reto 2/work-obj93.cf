@@ -1,0 +1,10 @@
+v 4
+file . "reto2.vhdl" "391013f004c52b599fab9066f5442e0bbfd129c3" "20200509165242.863":
+  entity lcd at 1( 0) + 0 on 27;
+  architecture behav of lcd at 13( 252) + 0 on 28;
+file . "test.vhdl" "a5252e72d4408e115f39f6cb885b4866764f29ba" "20200509164159.739":
+  entity test at 1( 0) + 0 on 23;
+  architecture behav of test at 12( 157) + 0 on 24;
+file . "reto2_tb.vhdl" "4c79e92829cc3fb53467ee150c53ef3bee719cb0" "20200510163821.627":
+  entity lcd_tb at 1( 0) + 0 on 35;
+  architecture behav of lcd_tb at 8( 101) + 0 on 36;
